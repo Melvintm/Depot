@@ -3,8 +3,12 @@
 *canard*
 
 **chat**
-
-* chien * chat * pigeon * canard * maitre chat *
++ liste 1
+* chien* 
+* chat
+* pigeon
+* canard
+* maitre chat
 ### EN PLUS PETIT
 <p>Je suis un maitre chat [^1] </p>
 
